@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="./chive-lzh/pack.png" alt="pack.png">
+</div>
+
+***
 文言 | [**白話**](README.md) | [**English**](README-en.md)
 
 *註：此本用厶人正字法。*

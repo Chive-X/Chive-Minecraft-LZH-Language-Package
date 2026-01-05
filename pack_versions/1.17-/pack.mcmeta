@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "supported_formats": [ 1, 6 ],
+    "description": "文言（華夏）語言包 作者：東門韭"
+  },
+  "language": {
+    "lzh":{
+        "name": "文言",
+        "region": "華夏",
+        "bidirectional": false
+      }
+  }
+
+}

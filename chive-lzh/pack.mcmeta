@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 9,
-    "supported_formats": [ 9, 9999 ],
-    "description": "含1.19.2元版及相關模組之漢化文本。增mng_chive文本。用碧葉間國定正字、主文言。"
+    "pack_format": 15,
+    "supported_formats": [ 7, 99 ],
+    "description": "文言（華夏）語言包。作者：東門韭"
   }
 }

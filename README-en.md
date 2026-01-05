@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="./chive-lzh/pack.png" alt="pack.png">
+</div>
+
+***
 [**文言**](README-lzh.md) | [**白話**](README.md) | English 
 
 *Note: As this project pertains to variants of Chinese, it requires users to have a certain knowledge of Classical Chinese. Therefore, only a brief introduction is provided here, and contents of the Chinese version such as translation philosophy and word selection will not be translated into English.*
